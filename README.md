@@ -3,7 +3,7 @@
 An express prisma node.js Typescript Postgress RICA Import permit
 
 ## Frontend repo
-[Backend repository](https://github.com/pmuhire/iremboInterview.git){:target="_blank"}
+[Backend repository](https://github.com/pmuhire/iremboInterview.git)
 ## Installation
 
 Install my-project with npm
@@ -30,6 +30,3 @@ Install my-project with npm
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-[Backend repository](https://github.com/pmuhire/iremboInterview.git){:target="_blank"}
