@@ -1,8 +1,35 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Irembo onboard Interview
+An express prisma node.js Typescript Postgress RICA Import permit
 
-Currently, two official plugins are available:
+## Frontend repo
+[Backend repository](https://github.com/pmuhire/iremboInterview.git){:target="_blank"}
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install my-project with npm
+
+```bash
+  git clone https://github.com/pmuhire/irembo.git
+  cd irembo
+  npm install
+  npx prisma 
+```
+### Build
+```bash
+  npm run build
+```
+### Start
+```
+  npm start
+```
+### Dev mode
+ ```
+  npm run dev 
+  ```
+     
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+[Backend repository](https://github.com/pmuhire/iremboInterview.git){:target="_blank"}
